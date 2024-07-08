@@ -21,7 +21,7 @@ To disassemble your own legally obtained copy of Commando, follow these steps:
 3. Use Mame (https://www.mamedev.org/) debugger to assist in the overall process
 
 ## Map Images
-The Folder Images contain the re-created Photoshop format Images for each of the 8 playing Areas within the game.
+The Folder Photoshop contain the re-created Photoshop format Images for each of the 8 playing Areas within the game.
 Each Photoshop file, PSD, is layered to show many elements that enabled the game to achieve the results.
 There is a Background layer, which is the map of the scrolling background characters plotted from the original data maps; this is NOT a screen capture from Mame but a re-created version of the original data into an 8-bit colour format. Where the Arcade hardware had multiple palettes, the only option was to re-map these into standard 8-bit colour RGB data.
 Please remember that the data shows how it was stored and that there are an additional 16 pixels on the left and right ( one character ), which is not displayed in the original Arcade but shown here for completeness.
