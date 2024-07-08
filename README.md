@@ -10,7 +10,7 @@ The original code for Commando is the property of Capcom. This disassembled code
 
 ## Contributions
 
-This project results from contributions from various enthusiasts in the retro gaming community. We aim to document and understand Commando's inner workings to benefit developers, historians, and fans.
+This project results from the first time I played this game, an experience I never realized at the time. In addition to contributions from various enthusiasts in the retro gaming community, we aim to document and understand Commando's inner workings to benefit developers, historians, and fans. My wife would kill me if she knew how much time I've spent on this. (🤐 Mum's the word!)
 
 ## Usage
 
