@@ -34,7 +34,7 @@ Lastly, the Tile layer is there to show you that the game uses a very small data
 Because the original screen is only 256 wide, I created an alltiles.psd file. This shows you all the tiles available in the game and the character numbers used; there are two layers to this.
 The background is just the tiles numbered from 0 to $d4 (ignore the last few; this is junk data). The pixels are expanded so you can read the small character number, which otherwise would be unreadable at a lower resolution. You can see a lot of tiles repeated with different palettes and reversed in direction. I also see a lot of the incomplete sides. I have noticed that the completed data for these missing ones are unavailable. It would be tempting to re-draw the missing parts, but this is not about changing; it's about the historical accuracy of the original data.
 
-## Mane Script
+## Mame Script
 To better understand the game, I managed to work out a bit about this scripting inside Mame, which, if you put it to your Mame folder and run with the bat file (note: I turn off the sound here after 1,000 times of hearing it gets a little annoying)
 Mame will show you outline boxes for all hardware sprites used in the game, the hardware sprite number and the sprite value. (all in hex)
 this gives you a better understanding of how things are going with the game in a great visual treat.
